@@ -1,6 +1,6 @@
 // Static content from the Minnerva Innov spec
 export const HERO = {
-  eyebrow: "RESEARCH & INNOVATION / 5 YEARS IN / FORTUNE 500 FMCG",
+  
   headlinePrimary: "There are no accidents.",
   headlineSecondary:
     "You discovered us for a reason — and it must be (at least) one of these.",
@@ -405,7 +405,6 @@ export const STAKEHOLDERS = [
 ];
 
 export const MARQUEE_MAIN = [
-  "P&G spends $5.4mn / day in R&D",
   "Do you know L'Oreal has over 320,000 healthcare professionals in its network.....",
   "L'Oréal has screened over 40,000 formulas across 143 categories.",
   "Unilever files ~250 patents a year",

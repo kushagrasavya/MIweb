@@ -14,11 +14,9 @@ export default function Footer() {
               <img
                 src="/images/Minnerva_Logo.png"
                 alt="Minnerva"
-                className="h-9 w-9 object-contain"
+                className="h-32 w-60 object-contain"
               />
-              <span className="font-display text-3xl tracking-wider">
-                MINNERVA INNOV
-              </span>
+             
             </div>
             <p className="font-editorial text-3xl md:text-4xl leading-[1.1] max-w-lg mb-8">
               With Minnerva, its all about Creating New Possibilities
@@ -69,6 +67,12 @@ export default function Footer() {
             >
               storm@minervainnov.com
             </a>
+            <a 
+            href="tel:+91XXXXXXXXXX" 
+            className="block text-xl mb-4 hover:text-lime-400 transition-colors"
+              >
+                +91 8320 262 013
+              </a>
             <p className="text-white/50 text-sm leading-relaxed">
                   D2-1501, The Meadows, Adani Shantigram
                  <br></br> Near Adani Corporate House

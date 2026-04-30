@@ -47,9 +47,9 @@ export default function Navbar() {
           <img
             src="/images/Minnerva_Logo.png"
             alt="Minnerva Innov"
-            className="h-8 w-8 object-contain"
+            className="h-32 w-40 object-contain"
           />
-          <span className="font-display text-2xl tracking-wider">MINNERVA</span>
+        
         </Link>
 
         <nav className="hidden md:flex items-center gap-8">
