@@ -407,7 +407,7 @@ export const STAKEHOLDERS = [
 export const MARQUEE_MAIN = [
   "Do you know L'Oreal has over 320,000 healthcare professionals in its network.....",
   "L'Oréal has screened over 40,000 formulas across 143 categories.",
-  "Unilever files ~250 patents a year",
+  "Unilever files ~300-400 patents a year",
   "80+ Fortune 500 projects delivered",
 ];
 
