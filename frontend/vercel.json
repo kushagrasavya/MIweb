@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/SRMB-preview",
+      "destination": "https://bold-brand-vault.preview.emergentagent.com/"
+    }
+  ]
+}
